@@ -1,0 +1,8 @@
+C:\Users\Onshore\source\repos\Hashing Project\obj\Debug\Hashing Project.csproj.AssemblyReference.cache
+C:\Users\Onshore\source\repos\Hashing Project\obj\Debug\Hashing Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onshore\source\repos\Hashing Project\obj\Debug\Hashing Project.csproj.CoreCompileInputs.cache
+C:\Users\Onshore\source\repos\Hashing Project\bin\Debug\Hashing Project.exe.config
+C:\Users\Onshore\source\repos\Hashing Project\bin\Debug\Hashing Project.exe
+C:\Users\Onshore\source\repos\Hashing Project\bin\Debug\Hashing Project.pdb
+C:\Users\Onshore\source\repos\Hashing Project\obj\Debug\Hashing Project.exe
+C:\Users\Onshore\source\repos\Hashing Project\obj\Debug\Hashing Project.pdb
